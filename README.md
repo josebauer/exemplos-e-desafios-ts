@@ -2,7 +2,9 @@
 Alguns exemplos e desafios em TypeScript, propostos pela DIO
 
 
-Códigos úteis para criação de projetos em TypeScript
+
+Códigos úteis para criação de projetos em TypeScript:
+
 
 npm init -> Cria um projeto node e o arquivo package.json;
 
