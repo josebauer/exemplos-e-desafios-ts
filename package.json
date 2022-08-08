@@ -1,7 +1,7 @@
 {
   "name": "projeto-typescript",
   "version": "1.0.0",
-  "description": "",
+  "description": "Alguns exemplos e desafios em TypeScript, propostos pela DIO",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -13,5 +13,13 @@
   "dependencies": {
     "lite-server": "^2.6.1",
     "typescript": "^4.7.4"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/josebauer/exemplos-e-desafios-ts.git"
+  },
+  "bugs": {
+    "url": "https://github.com/josebauer/exemplos-e-desafios-ts/issues"
+  },
+  "homepage": "https://github.com/josebauer/exemplos-e-desafios-ts#readme"
 }

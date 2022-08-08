@@ -19,7 +19,6 @@ const paula: {nome: string, idade: number, profissao: string} = {
 }
 
 enum Profissao {
-    Professora,
     Atriz,
     Desenvolvedora,
     JogadoraDeFutebol
@@ -38,7 +37,7 @@ interface Estudante extends Pessoa{
 const vanessa: Pessoa = {
     nome: 'Vanessa',
     idade: 23,
-    profissao: Profissao.Professora
+    profissao: Profissao.Desenvolvedora
 }
 
 const maria: Pessoa = {
