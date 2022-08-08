@@ -1,4 +1,4 @@
-# exemplos-e-desafios-ts
+# Exemplos e Desafios em TS
 Alguns exemplos e desafios em TypeScript, propostos pela DIO
 
 
